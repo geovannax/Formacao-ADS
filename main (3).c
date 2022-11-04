@@ -40,16 +40,6 @@ int main()
         fgets(numeroTel, STR_S, stdin);
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         printf("\n\n---------------------------- DADOS PESSOAIS ----------------------------");
         
         printf("\nNome Completo: %s", nome);
