@@ -38,7 +38,6 @@ compreender a integração e consistência entre as principais técnicas de mode
 - Modelagem dos demais Diagramas de Interação
 - Modelagem inicial da atividade de Análise
 - Modelagem complementar da atividade de Análise
-- Transição da Atividade de Análise para Projet
 
 
 
