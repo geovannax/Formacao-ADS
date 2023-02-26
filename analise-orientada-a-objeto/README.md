@@ -5,7 +5,7 @@
 **Conceitos fundamentais de modelagem e projeto de software orientado a objetos.**
 </div>
 
-## ➡️ OBJETIVO
+## ➡️ OBJETIVOs
 
 ### 📍 Objetivo Geral:
 
