@@ -1,4 +1,8 @@
+<div align="center">
+
 ## 📝 DIAGRAMA DE CASO DE USO 
+
+</div>
 
 O **Diagrama de Caso de Uso** é uma das principais ferramentas utilizadas na modelagem de sistemas de software usando a linguagem UML (Unified Modeling Language). Ele é usado para descrever as funcionalidades ou serviços que um sistema oferece a seus usuários, bem como para especificar o comportamento do sistema em relação aos usuários.
 
