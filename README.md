@@ -37,4 +37,8 @@ O tecnólogo em ADS pode atuar em diversas áreas e setores, como empresas de te
 
 <img height="500em" src="https://static.adecoretecidos.com.br/public/adecoretecidos/imagens/produtos/painel-sublimado-flork-formatura-14309.png"/>
 
+***Geovanna Assis***
+
+##
+
 </div>
