@@ -123,6 +123,71 @@ Esses ajudam a entender o comportamento de um sistema para as partes envolvidas
  </tr>
 <table>
 
+### 📍Processo Unificado 
+
+  Se adequa a a qualquer processo como XP ou Scrum, mas foi criado para o UML, uma vez que ambos possuem o mesmo criador. 
+  
+- **Busca entender 4 elementos:** 
+  - Quem?
+  - O que?
+  - Como? 
+  - Quando? 
+  
+- **Características:** 
+  - Interativo e incremental. 
+  - Dirigido por uma lista de caso de uso.
+  - Focado na arquitetura do sistema.
+  - Orientado a riscos.
+
+- **Possui 4 fases:**
+  - **1°** Fase de concepção: Onde é validados os requisitos do sistema, viabilidade de implantação, Esboço da arquitetura, estimativa de custo e cronograma. 
+    <p>   Os diagramas sugeridos, para utilização nessa fase são:   </p>  
+
+    - Diagrama de caso de uso;
+    - Diagrama de sequencias; 
+    - Diagrama de atividades;
+    - Diagrama de maquinas de estado. 
+
+
+  - **2°** Fase de elaboração: Essa fase foca em visão refinada, analise do projeto, requisitos funcionais, detalhamento da arquitetura e gerenciamento dos riscos. 
+  
+    <p>Os digramas sugeridos nessa fase são: </p>
+
+    - Diagrama de Classes; 
+    - Diagramas de sequencias; 
+    - Diagrama de Atividades; 
+    - Diagramas de Colaboração;
+    - Diagrama de Máquinas de estado. 
+
+  - **3°** Fase de construção: Nesta fase ocorre a implementação do sistema. 
+
+    <p>Nesta fase o diagrama sugerido é:</p>
+
+    - Diagrama de instalação. 
+  
+  - **4°** Fase de implementação: Essa é a fase em que ocorre a entrega do sistema para o cliente. 
+
+    <p> Os diagramas sugeridos para essa fase são: </p>
+
+    - Diagrama de Classes; 
+    - Diagrama de sequencias; 
+    - Diagrama de colaboração; 
+    - Diagrama de Atividades; 
+  
+### 📍 4 Elementos da UML 
+- **Especificação:** Descrição exata do elemento em questão;
+- **Adorno:** Notação gráficas dos elementos; 
+- **Divisões comuns:** Divisão de classes e objetos 
+- **Mecanismo de extensão:** Esteriótipos e restrições. 
+
+### ⚠️ Regras de diagramas no UML 
+
+- O número de Objetos deve ser **=** ao número de classes. 
+- Ao atualizar o diagrama de classe é preciso reproduzir no diagrama de sequência, eles devem estar sincronizados. 
+- O nome de métodos devem ser respeitados. 
+- O caso de uso deve ser auto explicativo.
+- Para cada caso de uso, deve haver uma diagrama de sequencia. 
+
 
 
 
