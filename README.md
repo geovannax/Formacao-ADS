@@ -22,7 +22,7 @@ Durante o curso, os estudantes aprendem sobre:
   
 Entre outros assuntos relacionados à área de tecnologia da informação. 
 
-### 📍 Em que áreas o profissional da área pode atuar? 
+### 📍 Em que áreas o profissional pode atuar? 
 
 O tecnólogo em ADS pode atuar em diversas áreas e setores, como empresas de tecnologia, consultorias, agências de publicidade, instituições financeiras, entre outros.
 
