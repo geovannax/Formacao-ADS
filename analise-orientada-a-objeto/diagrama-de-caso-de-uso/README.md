@@ -10,7 +10,7 @@ O **Diagrama de Caso de Uso** é uma das principais ferramentas utilizadas na mo
 - **Atores:** São pessoas, sistemas ou outros elementos que interagem com o sistema 
 - **Casos de uso:** Que são ações que o sistema realiza em resposta às solicitações dos atores.
 
-### 📍 Obejtivo
+### 📍 Objetivo
  O objetivo do diagrama é fornecer uma visão geral do sistema e de como ele é usado pelos usuários.
 
 
